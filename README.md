@@ -1,6 +1,6 @@
 ### Hey, how's it going? 👋
 
-:octocat: Software Engineer at [Capgemini](https://www.capgemini.com) <br>
+💼 Fullstak Software Engineer at [Capgemini](https://www.capgemini.com) <br>
 🇧🇷 Born in Brasília, Brazil <br>
 🇧🇷 Living in Brasília, Brazil
 
