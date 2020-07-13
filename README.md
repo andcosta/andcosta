@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, how's it going? 👋
 
-<!--
-**andcosta/andcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:octocat: Software Engineer at [Capgemini](https://www.capgemini.com) <br>
+🇧🇷 Born in Brasília, Brazil <br>
+🇧🇷 Living in Brasília, Brazil
 
-Here are some ideas to get you started:
+### 👨‍💻 I'm Anderson Costa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 [Site](https://www.andcosta.me) <br>
+🐦 [Twitter](https://twitter.com/andcostaca) <br>
+📸 [Instagram](https://instagram.com/andcostaca) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/andcosta) <br>
+📫 [andcosta.dev@gmail.com](andcosta.dev@gmail.com) <br>
