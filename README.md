@@ -1,8 +1,8 @@
 ### Hey, how's it going? 👋
 
 💼 Fullstak Software Engineer at [Capgemini](https://www.capgemini.com) <br>
-🇧🇷 Born in Brasília, Brazil <br>
-🇧🇷 Living in Brasília, Brazil
+🇧🇷 Born in DF, Brazil <br>
+🇧🇷 Living in DF, Brazil
 
 ### 👨‍💻 I'm Anderson Costa 
 
