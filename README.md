@@ -5,7 +5,7 @@
 🇧🇷 Born in DF, Brazil <br>
 🇧🇷 Living in DF, Brazil <br>
 
-### 🌎 **Contact:**
+### 🌎 **contact:**
 
 🚀 [www.andcosta.me](https://www.andcosta.me) <br>
 🐦 [Twitter](https://twitter.com/andcostaca) <br>
