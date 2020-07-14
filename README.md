@@ -11,4 +11,4 @@
 🐦 [Twitter](https://twitter.com/andcostaca) <br>
 📸 [Instagram](https://instagram.com/andcostaca) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andcosta) <br>
-📫 [andcosta.dev@gmail.com](andcosta.dev@gmail.com) <br>
+📫 [andcosta.dev@gmail.com](mailto:andcosta.dev@gmail.com) <br>
