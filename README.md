@@ -7,7 +7,7 @@
 
 ### 🌎 **contact:**
 
-🚀 [www.andcosta.me](https://www.andcosta.me) <br>
+> 🚀 [www.andcosta.me](https://www.andcosta.me) <br>
 🐦 [Twitter](https://twitter.com/andcostaca) <br>
 📸 [Instagram](https://instagram.com/andcostaca) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andcosta) <br>
