@@ -3,7 +3,7 @@
 > 👨‍💻 **I'm ANDERSON COSTA** <br>
 💼 Full Stack Software Engineer at [Capgemini](https://www.capgemini.com) <br>
 🇧🇷 Born in DF, Brazil <br>
-🇧🇷 Living in DF, Brazil <br>
+🇨🇦🇷 Living in Vancouver, Canada <br>
 
 ### 🌎 **contact:**
 
