@@ -1,7 +1,7 @@
 ### Hey, how's it going? 👋
 
 > 👨‍💻 **I'm ANDERSON COSTA** <br>
-💼  Full Stack Software Engineer at [Capgemini](https://www.capgemini.com) <br>
+💼  Senior Software Engineer at [Capgemini](https://www.capgemini.com) <br>
 🇧🇷  Born in Brasilia, Brazil <br>
 🇨🇦  Living in Vancouver, Canada <br>
 
